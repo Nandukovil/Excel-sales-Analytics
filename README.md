@@ -2,7 +2,7 @@
 
 - **Project Objective:**
 
-  **1.** Develop a _[customer performance report][(https://github.com/Nandukovil/Excel-sales-Analytics)]/blob/main/Customer%20Performance%20Report.pdf)_.
+  **1.** Develop a _[customer performance report](https://github.com/Nandukovil/Excel-sales-Analytics)/blob/main/Customer%20Performance%20Report.pdf)_.
 
   **2.** Perform a detailed comparison between _[market performance and sales goals][(https://github.com/Nandukovil/Excel-sales-Analytics)]/blob/main/Customer%20Performance%20Report.pdf)_.
 
